@@ -739,4 +739,5 @@ _top: 如果是HTML 4文档: 清空当前文档，加载返回内容；HTML5: �
 
 9.<input>
 元素用于为基于Web的表单创建交互式控件，以便接受来自用户的数据，常用属性值有button、checkbox、reset、radio
-input无子元素，button有子元素
+input无子元素，button有子元素.
+
